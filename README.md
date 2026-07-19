@@ -12,3 +12,16 @@ I have now  fixed  this  issue  by allowing the game to hook into popular screen
 some menus are a little tricky, but they are largely inconsequential to the game so don't worry, they  won't affect your experience. 
 
 hope you enjoy.  
+
+## support me. 
+
+ I will never lock a mod behind a paywall, but the tools I use to create them don't come cheap. any support means the absolute world and is a massive help in the creation of new mods like this one. 
+
+patreon
+
+https://www.patreon.com/Lily4080?utm_campaign=creatorshare_creator
+
+buy me a Coffee 
+
+ https://buymeacoffee.com/liliancogha 
+
